@@ -1,0 +1,11 @@
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\bin\Debug\SikorskiD-tire calculator.exe.config
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\bin\Debug\SikorskiD-tire calculator.exe
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\bin\Debug\SikorskiD-tire calculator.pdb
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD-tire calculator.csproj.AssemblyReference.cache
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD-tire calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD_tire_calculator.Form1.resources
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD_tire_calculator.Properties.Resources.resources
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD-tire calculator.csproj.GenerateResource.cache
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD-tire calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD-tire calculator.exe
+C:\Users\Stryker\source\repos\SikorskiD-tire calculator\SikorskiD-tire calculator\obj\Debug\SikorskiD-tire calculator.pdb

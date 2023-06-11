@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SikorskiD-tire calculator", "SikorskiD-tire calculator\SikorskiD-tire calculator.csproj", "{26DA18CB-DAB4-4AA6-A376-8DF9E4060D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26DA18CB-DAB4-4AA6-A376-8DF9E4060D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DA18CB-DAB4-4AA6-A376-8DF9E4060D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DA18CB-DAB4-4AA6-A376-8DF9E4060D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DA18CB-DAB4-4AA6-A376-8DF9E4060D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC43D75-810D-4AF1-A277-AB432504907E}
+	EndGlobalSection
+EndGlobal
